@@ -1,6 +1,4 @@
-
 0-main.c CODE
-
 
 #include "main.h"
 
@@ -18,4 +16,3 @@ int main(void)
 
 return (0);
 }
-
